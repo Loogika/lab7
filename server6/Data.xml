@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collectionManager>
+    <groupsA>
+        <entry>
+            <key>7</key>
+            <value>
+                <id>7</id>
+                <name>DATA</name>
+                <coordinates>x=1.0, y=2</coordinates>
+                <creationDate>2021-10-09</creationDate>
+                <studentsCount>3</studentsCount>
+                <semesterEnum>THIRD</semesterEnum>
+                <form>DISTANCE_EDUCATION</form>
+            </value>
+        </entry>
+        <entry>
+            <key>8</key>
+            <value>
+                <id>DATA</id>
+                <name>1</name>
+                <coordinates>x=2.0, y=43</coordinates>
+                <creationDate>2021-10-09</creationDate>
+                <studentsCount>555</studentsCount>
+                <semesterEnum>THIRD</semesterEnum>
+                <form>DISTANCE_EDUCATION</form>
+            </value>
+        </entry>
+    </groupsA>
+</collectionManager>
